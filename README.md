@@ -1,7 +1,5 @@
 # MNIST-DNN
 Training on MNIST digits 0-4 with DNN
-# MNIST-DNN
-Training on MNIST digits 0-4 with DNN
 ## Training Process
 **1. Extract train/validation/test data from mnist**
 **2. Build execution graph**
